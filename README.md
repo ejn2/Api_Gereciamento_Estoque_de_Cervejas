@@ -1,5 +1,5 @@
-# Gerenciamento estoque de cervejas. 🍺
-<p> É uma api para estocar e gerenciar cervejas, desenvolvida em spring boot.</p>
+# BeerStock. 🍺
+<p> BeerStock é uma api para estocar e gerenciar cervejas.</p>
 
 ## Rotas
 
